@@ -9,6 +9,10 @@ background: #000 url(./vivir_bg.jpg) top center no-repeat;
 font-family: Helvetica Neue, Helvetica, Arial;
 }
 
+a{
+  text-decoration: none;
+}
+
 .container{
 width: 636px;
 margin: 0 auto;
@@ -174,7 +178,22 @@ p{
   background: url(../images/go.png) left top no-repeat;cursor: pointer;
 }
 
-.go:hover{
-  
+.meraki-link{
+  cursor: pointer;
+  color: #d6ba33;
 }
 
+.meraki-link:hover{
+  transform: scale(1.5);
+  text-decoration: none;
+}
+.meraki-link:visited, .meraki-link:active{
+  text-decoration: none;
+}
+
+.text-description{
+
+}
+.text-description p{
+
+}
