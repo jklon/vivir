@@ -121,8 +121,7 @@ height: 24px;
   width: 500px;
   height: 278px;
   background: url(./video.png) left top no-repeat;
-  padding: 68px;
-  margin: -20px 0;
+  margin: 25px 73px;
 }
 
 .coming_soon{
@@ -178,3 +177,4 @@ p{
 .go:hover{
   
 }
+
